@@ -1,0 +1,32 @@
+## copyright (c) 2017 Roberto Ceccarelli - CasaSoft
+## http://strawberryfield.altervista.org 
+## 
+## This file is part of CasaSoft Arduino GamePortLib
+## 
+## CasaSoft Virtual Railways Tools is free software: 
+## you can redistribute it and/or modify it
+## under the terms of the GNU General Public License as published by
+## the Free Software Foundation, either version 3 of the License, or
+## (at your option) any later version.
+## 
+## CasaSoft Arduino GamePortLib is distributed in the hope that it will be useful,
+## but WITHOUT ANY WARRANTY; without even the implied warranty of
+## MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+## See the GNU General Public License for more details.
+## 
+## You should have received a copy of the GNU General Public License
+## along with CasaSoft Arduino GamePortLib.  
+## If not, see <http://www.gnu.org/licenses/>.
+
+GamePortLib	KEYWORD1
+
+SetPins	KEYWORD2
+ReadButton	KEYWORD2
+ReadAnalog	KEYWORD2
+ReadDigital	KEYWORD2
+TestButton	KEYWORD2
+TestAnalog	KEYWORD2
+TestDigital	KEYWORD2
+WriteButton	KEYWORD2
+WriteAnalog	KEYWORD2
+WriteDigital	KEYWORD2
