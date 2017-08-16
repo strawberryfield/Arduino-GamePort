@@ -3,7 +3,7 @@
 // 
 // This file is part of CasaSoft Arduino GamePortLib
 // 
-// CasaSoft Virtual Railways Tools is free software: 
+// CasaSoft Arduino GamePortLib is free software: 
 // you can redistribute it and/or modify it
 // under the terms of the GNU General Public License as published by
 // the Free Software Foundation, either version 3 of the License, or
