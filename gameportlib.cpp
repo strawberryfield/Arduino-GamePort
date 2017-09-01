@@ -35,7 +35,7 @@ GamePortLib::GamePortLib(int b1pin, int b2pin, int b3pin, int b4pin, int pinx1, 
 // Inits
 void GamePortLib::SetPins() 
 {
-  GamePortLib::SetPins(12, 13, 3, 2, A6, A7, UNWIRED, UNWIRED);
+  GamePortLib::SetPins(12, 13, 3, A5, A6, A7, UNWIRED, UNWIRED);
 }
 
 void GamePortLib::SetPins(int b1pin, int b2pin, int b3pin, int b4pin, int pinx1, int piny1, int pinx2, int piny2)

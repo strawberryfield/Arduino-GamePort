@@ -8,4 +8,10 @@ The enclosed example uses a 128x64 LCD display driven with OpenGLCD library
 Due to the high number of pins used by the LCD the input in the example is made via A6 and A7 analog inputs
 that aren't available on all arduino boards. If you have other free input you can use those.
 
+### Schematics
+
+Fritzing breadboard schema and joystick connectors pinout are enclosed in the doc folder
+
+### License
+
 Library is released under GNU GPL v.3 (see the enclose LICENSE.txt)
